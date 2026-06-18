@@ -14,8 +14,8 @@
       </p>
 
       <p class="mt-4 text-lg leading-relaxed text-foreground/70">
-        Mais do que um produto diferenciado, entregamos confiabilidade —
-        para que <strong class="font-semibold text-foreground">distribuidoras, adegas, bares , eventos e restaurantes</strong>
+        Mais do que um produto diferenciado, entregamos confiabilidade
+        para que <strong class="font-semibold text-foreground">distribuidoras, adegas, bares, eventos e restaurantes</strong>
         possam contar com abastecimento regular, variedade de sabores e atendimento direto,
         sem intermediários e sem complicação.
       </p>

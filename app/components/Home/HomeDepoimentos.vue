@@ -2,19 +2,19 @@
 // TODO: substituir pelos depoimentos reais dos clientes
 const depoimentos = [
   {
-    texto: 'A entrega é sempre pontual e o sabor se mantém intenso até o fim nossos clientes notaram a diferença.',
+    texto: 'A entrega é sempre pontual e o sabor se mantém intenso até o fim. Nossos clientes notaram a diferença.',
     nome: 'Marcos Silva',
-    negocio: 'Distribuidora Vitória · Viana - ES',
+    negocio: 'Distribuidora · Viana, ES',
   },
   {
     texto: 'A variedade de sabores ajudou a diversificar nosso estoque sem complicação no pedido.',
     nome: 'Juliana Costa',
-    negocio: 'Adega Cariacica Bebidas · Cariacica - ES',
+    negocio: 'Adega e Bebidas · Cariacica, ES',
   },
   {
     texto: 'Virou item fixo no cardápio. Os clientes pedem direto pelo nome.',
     nome: 'Rafael Souza',
-    negocio: 'Bar · Viana - ES',
+    negocio: 'Bar · Viana, ES',
   },
 ]
 </script>

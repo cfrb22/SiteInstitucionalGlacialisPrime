@@ -4,7 +4,7 @@
 
       <div class="mb-4 inline-flex items-center gap-2 border-b-2 border-primary pb-1">
         <Icon name="lucide:factory" class="h-4 w-4 text-primary" />
-        <span class="text-sm font-semibold text-primary">Fábrica própria em Viana – ES</span>
+        <span class="text-sm font-semibold text-primary">Fábrica própria em Viana, ES</span>
       </div>
 
       <h2 class="font-display mb-5 text-3xl font-black leading-tight tracking-tight text-foreground sm:text-4xl">
@@ -14,7 +14,7 @@
       <div class="space-y-4 text-base leading-relaxed text-foreground/70">
         <p>
           A Glacialis Prime foi fundada em Viana, no Espírito Santo, com a missão de levar
-          ao mercado um gelo saborizado que vai além do comum — feito com ingredientes
+          ao mercado um gelo saborizado que vai além do comum, feito com ingredientes
           selecionados e um processo de produção cuidadoso do início ao fim.
         </p>
         <p>
@@ -24,7 +24,7 @@
         </p>
         <p>
           Nossa estrutura própria nos permite manter flexibilidade no mix de sabores,
-          agilidade nas entregas e um relacionamento direto com cada cliente —
+          agilidade nas entregas e um relacionamento direto com cada cliente,
           sem atravessadores, sem burocracia.
         </p>
       </div>

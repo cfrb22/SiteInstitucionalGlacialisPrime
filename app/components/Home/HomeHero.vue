@@ -22,7 +22,7 @@ const { abrirWhatsapp } = useWhatsapp()
           <!-- Badge -->
           <div class="mb-6 inline-flex items-center gap-2 border-b-2 border-primary pb-1">
             <Icon name="lucide:factory" class="h-4 w-4 text-primary" />
-            <span class="text-sm font-semibold text-primary">Fornecimento direto da fábrica · Viana – ES</span>
+            <span class="text-sm font-semibold text-primary">Fornecimento direto da fábrica · Viana, ES</span>
           </div>
 
           <!-- Título -->

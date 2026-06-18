@@ -23,7 +23,7 @@ const { abrirWhatsapp } = useWhatsapp()
 
       <!-- Subtítulo -->
       <p class="mx-auto mb-10 max-w-2xl text-lg leading-relaxed text-background/75">
-        Garantimos regularidade no abastecimento e qualidade em cada entrega —
+        Garantimos regularidade no abastecimento e qualidade em cada entrega,
         para que o seu negócio nunca fique sem produto e os seus clientes sempre
         encontrem o gelo saborizado que procuram.
       </p>

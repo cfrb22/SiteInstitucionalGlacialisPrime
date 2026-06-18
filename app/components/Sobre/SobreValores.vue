@@ -40,7 +40,7 @@
           <h3 class="font-display mb-2 text-lg font-bold text-foreground">Sabor Tropical Autêntico</h3>
           <p class="text-sm leading-relaxed text-foreground-muted">
             Inspirados nos sabores do Brasil, desenvolvemos uma linha que traz autenticidade
-            e intensidade ao gelo — diferente de tudo que o mercado já conhece.
+            e intensidade ao gelo, diferente de tudo que o mercado já conhece.
           </p>
         </BaseCard>
 

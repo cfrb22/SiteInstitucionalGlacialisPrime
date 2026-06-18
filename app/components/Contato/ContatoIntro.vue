@@ -5,7 +5,7 @@
       <BaseSectionHeader
         badge="Contato"
         title="Fale com a Glacialis Prime"
-        description="Tire dúvidas, faça pedidos ou saiba mais sobre o fornecimento no atacado — tudo direto pelo WhatsApp, sem formulários e sem espera."
+        description="Tire dúvidas, faça pedidos ou saiba mais sobre o fornecimento no atacado, tudo direto pelo WhatsApp, sem formulários e sem espera."
       />
 
     </div>

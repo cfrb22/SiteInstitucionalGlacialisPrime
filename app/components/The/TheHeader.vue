@@ -21,12 +21,15 @@ function fecharMenu() {
     <div class="mx-auto flex max-w-7xl items-center justify-between px-4 py-3">
 
       <!-- Logo -->
-      <NuxtLink to="/" class="shrink-0" @click="fecharMenu">
+      <NuxtLink to="/" class="flex shrink-0 items-center gap-2.5" @click="fecharMenu">
         <img
           :src="logoSrc"
           alt="Glacialis Prime"
           class="h-10 w-auto"
         />
+        <span class="hidden font-display text-lg font-bold leading-none sm:block">
+          <span class="text-secondary">Glacialis</span><span class="text-accent"> Prime</span>
+        </span>
       </NuxtLink>
 
       <!-- Navegação desktop -->

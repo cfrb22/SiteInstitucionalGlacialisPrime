@@ -39,7 +39,7 @@
           </div>
           <h3 class="font-display mb-2 text-lg font-bold text-foreground">Bares e Conveniências</h3>
           <p class="text-sm leading-relaxed text-foreground-muted">
-            Gelo saborizado que transforma drinques e aumenta o ticket médio
+            Gelo saborizado que transforma drinques e aumenta o ticket médio,
             ideal para bares, lanchonetes e lojas de conveniência.
           </p>
         </BaseCard>

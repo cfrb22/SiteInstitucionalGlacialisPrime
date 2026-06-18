@@ -45,8 +45,8 @@ const whatsappFormatado = `+${whatsappNumber.slice(0, 2)} (${whatsappNumber.slic
               Horário de Atendimento
             </h3>
             <div class="space-y-1 text-sm text-foreground/75">
-              <p><strong class="font-semibold text-foreground">Segunda a Sexta:</strong> 8h às 22h — última entrega às 22h</p>
-              <p><strong class="font-semibold text-foreground">Sábado e Domingo:</strong> 8h às 18h — última entrega às 18h</p>
+              <p><strong class="font-semibold text-foreground">Segunda a Sexta:</strong> 8h às 22h, última entrega às 22h</p>
+              <p><strong class="font-semibold text-foreground">Sábado e Domingo:</strong> 8h às 18h, última entrega às 18h</p>
             </div>
           </div>
         </div>
