@@ -18,7 +18,7 @@ const logoSrc = '/imagens/GLACIALIS PRIME_principal.jpg'
 </script>
 
 <template>
-  <footer id="the-footer" class="bg-primary text-background">
+  <footer id="the-footer" class="border-t border-white/10 bg-primary text-background">
     <div class="mx-auto max-w-7xl px-4 py-12">
       <div class="grid grid-cols-1 gap-10 sm:grid-cols-2 lg:grid-cols-3">
 
@@ -28,7 +28,7 @@ const logoSrc = '/imagens/GLACIALIS PRIME_principal.jpg'
             <img :src="logoSrc" alt="Glacialis Prime" class="h-12 w-auto" />
           </NuxtLink>
           <p class="max-w-xs text-sm leading-relaxed text-background/70">
-            Gelo e bebidas de qualidade para o seu negócio. Entrega rápida em Viana e região.
+            Gelo e bebidas de qualidade para o seu negócio. Entrega rápida em Viana e Cariacica.
           </p>
         </div>
 
@@ -82,7 +82,7 @@ const logoSrc = '/imagens/GLACIALIS PRIME_principal.jpg'
 
           <!-- Instagram -->
           <BaseButton
-            href="#"
+            href="https://www.instagram.com/glacialisprime?igsh=MWVtbHZvaGU0NzRhNg=="
             variant="ghost"
             size="sm"
             class="w-fit gap-2 px-0 text-background/75 hover:bg-transparent hover:text-background"

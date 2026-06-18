@@ -15,14 +15,14 @@ const sabores = useSabores()
         />
       </div>
 
-      <!-- Grid de sabores -->
-      <div class="grid grid-cols-1 gap-5 sm:grid-cols-3 lg:grid-cols-5">
+      <!-- Carrossel mobile / grid desktop -->
+      <div class="flex gap-5 overflow-x-auto pb-4 snap-x snap-mandatory sm:grid sm:grid-cols-3 sm:overflow-visible sm:pb-0 lg:grid-cols-5">
         <BaseCard
           v-for="sabor in sabores"
           :key="sabor.id"
           :hover="true"
           padding="md"
-          class="flex flex-col items-center text-center"
+          class="flex shrink-0 w-72 flex-col items-center text-center snap-center sm:w-auto sm:shrink"
         >
           <!-- Imagem do sabor -->
           <img

@@ -1,6 +1,9 @@
 <template>
-  <div class="mx-auto max-w-7xl px-4 py-20">
-    <h1 class="text-3xl font-black text-foreground">Sobre</h1>
-    <p class="mt-2 text-foreground-muted">Página em construção.</p>
+  <div id="page-sobre">
+    <SobreIntro />
+    <SobreHistoria />
+    <SobreProcesso />
+    <SobreValores />
+    <HomeBannerAtacado />
   </div>
 </template>

@@ -2,7 +2,7 @@ import type { Sabor } from '../types/Sabor'
 
 export const whatsappNumber = '5527999385391'
 
-export const endereco = 'Av. São Paulo, Marcílio de Noronha, Viana - ES, 29135-397'
+export const endereco = 'Viana - ES'
 
 export const sabores: Sabor[] = [
   { id: 'maca-verde',   nome: 'Maçã Verde',   corDestaque: '#4ADE80', descricao: 'Refrescante e levemente ácido, ideal para caipirinhas e drinks tropicais.',       imagem: '/imagens/publicimagenssaboresmaca-verde.png' },

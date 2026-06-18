@@ -21,7 +21,7 @@ const { abrirWhatsapp } = useWhatsapp()
         <!-- Descrição -->
         <p class="mx-auto mb-8 max-w-2xl text-lg leading-relaxed text-foreground/70">
           No pedido de atacado com mínimo de <strong class="font-semibold text-foreground">50 unidades</strong>,
-          você combina livremente os 5 sabores como quiser — sem precisar fechar pedido de um sabor só.
+          você combina livremente os 5 sabores como quiser sem precisar fechar pedido de um sabor só.
           Ideal para <strong class="font-semibold text-foreground">distribuidoras e adegas</strong> que querem
           testar o que vende melhor com os seus clientes.
         </p>

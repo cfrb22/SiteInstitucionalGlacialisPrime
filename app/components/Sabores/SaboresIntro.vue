@@ -6,7 +6,7 @@
         badge="Linha Premium"
         title="Nossos Sabores"
         description="Temos 5 sabores exclusivos de gelo saborizado disponíveis tanto no varejo quanto no atacado.
-          No atacado, o pedido mínimo é de 50 unidades — e você pode misturar os sabores livremente
+          No atacado, o pedido mínimo é de 50 unidades e você pode misturar os sabores livremente
           no mesmo pedido, montando a combinação ideal para o seu negócio."
       />
 

@@ -35,7 +35,7 @@ const { abrirWhatsapp } = useWhatsapp()
           <p class="mb-10 max-w-lg text-lg leading-relaxed text-foreground/70">
             Fornecemos gelo saborizado de alta qualidade para
             <strong class="font-semibold text-foreground/90">distribuidoras, adegas, bares e restaurantes</strong>.
-            Variedade de sabores, entrega ágil e preço de atacado na região de Viana e Grande Vitória.
+            Variedade de sabores, entrega ágil e preço de atacado em Viana e Cariacica.
           </p>
 
           <!-- CTAs -->

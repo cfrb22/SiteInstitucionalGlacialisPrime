@@ -24,7 +24,7 @@ const MSG = 'Olá! Gostaria de fazer um pedido no atacado de gelo saborizado Gla
       <p class="mx-auto mb-10 max-w-2xl text-lg leading-relaxed text-background/75">
         Pedido mínimo de <strong class="font-semibold text-background">50 unidades</strong> com total
         liberdade para combinar entre os <strong class="font-semibold text-background">5 sabores disponíveis</strong>
-        no mesmo pedido. Ideal para distribuidoras, adegas e bares que querem oferecer
+        no mesmo pedido. Ideal para distribuidoras, adegas, bares e eventos que querem oferecer
         algo diferente aos seus clientes.
       </p>
 
@@ -46,7 +46,7 @@ const MSG = 'Olá! Gostaria de fazer um pedido no atacado de gelo saborizado Gla
       <div class="mt-10 flex flex-wrap items-center justify-center gap-6">
         <BaseCheckItem light text="Mínimo de 50 unidades" />
         <BaseCheckItem light text="Mix de sabores no mesmo pedido" />
-        <BaseCheckItem light text="Entrega na região de Viana" />
+        <BaseCheckItem light text="Entrega em Viana e Cariacica" />
       </div>
     </div>
   </section>
