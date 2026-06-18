@@ -2,12 +2,12 @@
   <section id="sobre-historia" class="bg-background-surface py-20">
     <div class="mx-auto max-w-3xl px-4 sm:px-6 lg:px-8">
 
-      <div class="mb-4 inline-flex items-center gap-2 rounded-full bg-primary/10 px-4 py-1.5">
+      <div class="mb-4 inline-flex items-center gap-2 border-b-2 border-primary pb-1">
         <Icon name="lucide:factory" class="h-4 w-4 text-primary" />
         <span class="text-sm font-semibold text-primary">Fábrica própria em Viana – ES</span>
       </div>
 
-      <h2 class="mb-5 text-3xl font-black leading-tight tracking-tight text-foreground sm:text-4xl">
+      <h2 class="font-display mb-5 text-3xl font-black leading-tight tracking-tight text-foreground sm:text-4xl">
         Produção com Cuidado,<br />Entrega com Confiança
       </h2>
 

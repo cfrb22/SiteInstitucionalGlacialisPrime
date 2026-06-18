@@ -20,13 +20,13 @@ const { abrirWhatsapp } = useWhatsapp()
         <!-- Coluna esquerda: conteúdo -->
         <div>
           <!-- Badge -->
-          <div class="mb-6 inline-flex items-center gap-2 rounded-full bg-primary/15 px-4 py-1.5 backdrop-blur-sm">
-            <span class="h-1.5 w-1.5 rounded-full bg-primary" />
+          <div class="mb-6 inline-flex items-center gap-2 border-b-2 border-primary pb-1">
+            <Icon name="lucide:factory" class="h-4 w-4 text-primary" />
             <span class="text-sm font-semibold text-primary">Fornecimento direto da fábrica · Viana – ES</span>
           </div>
 
           <!-- Título -->
-          <h1 class="mb-5 text-4xl font-black leading-[1.1] tracking-tight text-foreground sm:text-5xl lg:text-6xl">
+          <h1 class="font-display mb-5 text-4xl font-black leading-[1.1] tracking-tight text-foreground sm:text-5xl lg:text-6xl">
             Gelo Saborizado<br />
             <span class="text-primary">Premium para o<br />seu Negócio</span>
           </h1>
@@ -71,7 +71,7 @@ const { abrirWhatsapp } = useWhatsapp()
 
         <!-- Coluna direita: imagem -->
         <div class="hidden lg:flex lg:justify-center">
-          <div class="relative w-full max-w-2xl">
+          <div class="relative w-full max-w-2xl animate-float">
             <img
               :src="'/imagens/publicimagenshero-produto.png'"
               alt="Gelo saborizado Glacialis Prime"

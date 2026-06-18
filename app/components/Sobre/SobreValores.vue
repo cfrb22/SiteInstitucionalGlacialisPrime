@@ -15,7 +15,7 @@
           <div class="mb-4 inline-flex h-12 w-12 items-center justify-center rounded-xl bg-primary/10">
             <Icon name="lucide:medal" class="h-6 w-6 text-primary" />
           </div>
-          <h3 class="mb-2 text-lg font-bold text-foreground">Qualidade</h3>
+          <h3 class="font-display mb-2 text-lg font-bold text-foreground">Qualidade</h3>
           <p class="text-sm leading-relaxed text-foreground-muted">
             Não abrimos mão do padrão. Cada unidade que sai da nossa fábrica passa por
             controle rigoroso para chegar ao cliente exatamente como deve ser.
@@ -26,7 +26,7 @@
           <div class="mb-4 inline-flex h-12 w-12 items-center justify-center rounded-xl bg-secondary/15">
             <Icon name="lucide:handshake" class="h-6 w-6 text-secondary" />
           </div>
-          <h3 class="mb-2 text-lg font-bold text-foreground">Compromisso com o Cliente</h3>
+          <h3 class="font-display mb-2 text-lg font-bold text-foreground">Compromisso com o Cliente</h3>
           <p class="text-sm leading-relaxed text-foreground-muted">
             Atendimento direto, sem intermediários. Cumprimos prazos, respeitamos
             combinados e construímos relações de longo prazo com cada parceiro.
@@ -37,7 +37,7 @@
           <div class="mb-4 inline-flex h-12 w-12 items-center justify-center rounded-xl bg-accent/15">
             <Icon name="lucide:sun" class="h-6 w-6 text-accent" />
           </div>
-          <h3 class="mb-2 text-lg font-bold text-foreground">Sabor Tropical Autêntico</h3>
+          <h3 class="font-display mb-2 text-lg font-bold text-foreground">Sabor Tropical Autêntico</h3>
           <p class="text-sm leading-relaxed text-foreground-muted">
             Inspirados nos sabores do Brasil, desenvolvemos uma linha que traz autenticidade
             e intensidade ao gelo — diferente de tudo que o mercado já conhece.

@@ -9,13 +9,13 @@ const MSG = 'Olá! Gostaria de fazer um pedido no atacado de gelo saborizado Gla
     <div class="mx-auto max-w-4xl px-4 text-center sm:px-6 lg:px-8">
 
       <!-- Badge -->
-      <div class="mb-6 inline-flex items-center gap-2 rounded-full bg-background/10 px-4 py-1.5">
+      <div class="mb-6 inline-flex items-center gap-2 border-b-2 border-accent pb-1">
         <Icon name="lucide:package" class="h-4 w-4 text-accent" />
         <span class="text-sm font-semibold text-accent">Atacado Disponível</span>
       </div>
 
       <!-- Título -->
-      <h2 class="mb-5 text-3xl font-black leading-tight tracking-tight text-background sm:text-4xl lg:text-5xl">
+      <h2 class="font-display mb-5 text-3xl font-black leading-tight tracking-tight text-background sm:text-4xl lg:text-5xl">
         Compre no Atacado e<br />
         Revenda com Qualidade
       </h2>

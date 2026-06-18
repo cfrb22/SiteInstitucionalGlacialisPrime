@@ -46,7 +46,7 @@ const diferenciais = [
             <Icon :name="item.icone" class="h-6 w-6 text-primary" />
           </div>
 
-          <h3 class="text-base font-bold text-foreground">
+          <h3 class="font-display text-base font-bold text-foreground">
             {{ item.titulo }}
           </h3>
 

@@ -21,7 +21,7 @@ const { abrirWhatsapp } = useWhatsapp()
           />
 
           <!-- Nome -->
-          <h3 class="mb-2 text-lg font-bold text-foreground">
+          <h3 class="font-display mb-2 text-lg font-bold text-foreground">
             {{ sabor.nome }}
           </h3>
 

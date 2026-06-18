@@ -23,7 +23,7 @@
             <span class="text-2xl font-black">1</span>
           </div>
           <div class="pt-2">
-            <h3 class="mb-1.5 text-lg font-bold text-foreground">Escolha os Sabores e Quantidades</h3>
+            <h3 class="font-display mb-1.5 text-lg font-bold text-foreground">Escolha os Sabores e Quantidades</h3>
             <p class="text-sm leading-relaxed text-foreground-muted">
               Defina quantas unidades quer e como prefere distribuir entre os 5 sabores disponíveis.
               O mínimo é 50 unidades e você pode combinar à vontade.
@@ -37,7 +37,7 @@
             <span class="text-2xl font-black">2</span>
           </div>
           <div class="pt-2">
-            <h3 class="mb-1.5 text-lg font-bold text-foreground">Fale com a Gente no WhatsApp</h3>
+            <h3 class="font-display mb-1.5 text-lg font-bold text-foreground">Fale com a Gente no WhatsApp</h3>
             <p class="text-sm leading-relaxed text-foreground-muted">
               Entre em contato direto pelo WhatsApp com o seu pedido. Atendimento rápido,
               sem formulários e sem burocracia.
@@ -51,7 +51,7 @@
             <span class="text-2xl font-black">3</span>
           </div>
           <div class="pt-2">
-            <h3 class="mb-1.5 text-lg font-bold text-foreground">Combinamos Entrega e Pagamento</h3>
+            <h3 class="font-display mb-1.5 text-lg font-bold text-foreground">Combinamos Entrega e Pagamento</h3>
             <p class="text-sm leading-relaxed text-foreground-muted">
               Alinhamos data, local de entrega e forma de pagamento diretamente com você.
               Simples, rápido e sem intermediários.

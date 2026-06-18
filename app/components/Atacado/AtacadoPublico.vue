@@ -15,7 +15,7 @@
           <div class="mb-4 inline-flex h-12 w-12 items-center justify-center rounded-xl bg-primary/10">
             <Icon name="lucide:truck" class="h-6 w-6 text-primary" />
           </div>
-          <h3 class="mb-2 text-lg font-bold text-foreground">Distribuidoras</h3>
+          <h3 class="font-display mb-2 text-lg font-bold text-foreground">Distribuidoras</h3>
           <p class="text-sm leading-relaxed text-foreground-muted">
             Fornecimento em volume com entregas programadas para que a sua operação
             nunca pare por falta de estoque de gelo saborizado.
@@ -26,7 +26,7 @@
           <div class="mb-4 inline-flex h-12 w-12 items-center justify-center rounded-xl bg-secondary/15">
             <Icon name="lucide:wine" class="h-6 w-6 text-secondary" />
           </div>
-          <h3 class="mb-2 text-lg font-bold text-foreground">Adegas</h3>
+          <h3 class="font-display mb-2 text-lg font-bold text-foreground">Adegas</h3>
           <p class="text-sm leading-relaxed text-foreground-muted">
             Variedade de sabores para agregar valor ao portfólio e oferecer ao cliente
             um produto premium e diferenciado direto da geladeira.
@@ -37,9 +37,9 @@
           <div class="mb-4 inline-flex h-12 w-12 items-center justify-center rounded-xl bg-accent/15">
             <Icon name="lucide:store" class="h-6 w-6 text-accent" />
           </div>
-          <h3 class="mb-2 text-lg font-bold text-foreground">Bares e Conveniências</h3>
+          <h3 class="font-display mb-2 text-lg font-bold text-foreground">Bares e Conveniências</h3>
           <p class="text-sm leading-relaxed text-foreground-muted">
-            Gelo saborizado que transforma drinques e aumenta o ticket médio —
+            Gelo saborizado que transforma drinques e aumenta o ticket médio
             ideal para bares, lanchonetes e lojas de conveniência.
           </p>
         </BaseCard>
