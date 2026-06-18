@@ -1,5 +1,5 @@
 <script setup lang="ts">
-import { whatsappNumber, endereco } from '../../../shared/constants/siteConfig'
+import { whatsappNumber, endereco } from '#shared/constants/siteConfig'
 
 const { abrirWhatsapp } = useWhatsapp()
 

@@ -1,4 +1,4 @@
-import { whatsappNumber } from '../../shared/constants/siteConfig'
+import { whatsappNumber } from '#shared/constants/siteConfig'
 
 const MENSAGEM_PADRAO = 'Olá! Gostaria de saber mais sobre os produtos da Glacialis Prime.'
 
