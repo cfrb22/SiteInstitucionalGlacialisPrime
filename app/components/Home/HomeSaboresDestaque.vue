@@ -43,12 +43,8 @@ const sabores = useSabores()
 
           <!-- Badge disponível -->
           <div class="mt-4 flex items-center gap-1.5">
-            <span
-              class="h-2 w-2 rounded-full"
-              :style="{ backgroundColor: sabor.corDestaque }"
-              aria-hidden="true"
-            />
-            <span class="text-xs text-foreground-muted/70">Disponível</span>
+            <span class="h-2 w-2 rounded-full bg-success" aria-hidden="true" />
+            <span class="text-xs text-success">Disponível</span>
           </div>
         </BaseCard>
       </div>
