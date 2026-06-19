@@ -30,6 +30,12 @@ const { abrirWhatsapp } = useWhatsapp()
             {{ sabor.descricao }}
           </p>
 
+          <!-- Badge disponível -->
+          <div class="mb-4 flex items-center gap-1.5">
+            <span class="h-2 w-2 rounded-full bg-success" aria-hidden="true" />
+            <span class="text-xs text-success">Disponível</span>
+          </div>
+
           <!-- CTA -->
           <BaseButton
             variant="primary"
