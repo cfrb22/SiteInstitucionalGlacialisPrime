@@ -25,7 +25,7 @@
           <div class="pt-2">
             <h3 class="font-display mb-1.5 text-lg font-bold text-foreground">Escolha os Sabores e Quantidades</h3>
             <p class="text-sm leading-relaxed text-foreground-muted">
-              Defina quantas unidades quer e como prefere distribuir entre os 5 sabores disponíveis.
+              Defina quantas unidades quer e como prefere distribuir entre os 8 sabores disponíveis.
               O mínimo é 50 unidades e você pode combinar à vontade.
             </p>
           </div>

@@ -23,7 +23,7 @@ const MSG = 'Olá! Gostaria de fazer um pedido no atacado de gelo saborizado Gla
       <!-- Descrição -->
       <p class="mx-auto mb-10 max-w-2xl text-lg leading-relaxed text-background/75">
         Pedido mínimo de <strong class="font-semibold text-background">50 unidades</strong> com total
-        liberdade para combinar entre os <strong class="font-semibold text-background">5 sabores disponíveis</strong>
+        liberdade para combinar entre os <strong class="font-semibold text-background">8 sabores disponíveis</strong>
         no mesmo pedido. Ideal para distribuidoras, adegas, bares e eventos que querem oferecer
         algo diferente aos seus clientes.
       </p>

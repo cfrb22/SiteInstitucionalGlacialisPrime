@@ -11,12 +11,12 @@ const sabores = useSabores()
         <BaseSectionHeader
           badge="Linha Premium"
           title="Nossos Sabores"
-          description="Cinco opções exclusivas de gelo saborizado para encantar os seus clientes e diferenciar o seu negócio."
+          description="Oito opções exclusivas de gelo saborizado para encantar os seus clientes e diferenciar o seu negócio."
         />
       </div>
 
       <!-- Carrossel mobile / grid desktop -->
-      <div class="flex gap-5 overflow-x-auto pb-4 snap-x snap-mandatory sm:grid sm:grid-cols-3 sm:overflow-visible sm:pb-0 lg:grid-cols-5">
+      <div class="flex gap-5 overflow-x-auto pb-4 snap-x snap-mandatory sm:grid sm:grid-cols-3 sm:overflow-visible sm:pb-0 lg:grid-cols-4">
         <BaseCard
           v-for="sabor in sabores"
           :key="sabor.id"
