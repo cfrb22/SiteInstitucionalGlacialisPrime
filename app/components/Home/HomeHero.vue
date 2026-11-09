@@ -63,7 +63,7 @@ const { abrirWhatsapp } = useWhatsapp()
 
           <!-- Selos de confiança -->
           <div class="mt-12 flex flex-wrap items-center gap-6">
-            <BaseCheckItem text="5 sabores disponíveis" />
+            <BaseCheckItem text="8 sabores disponíveis" />
             <BaseCheckItem text="Entrega para atacado" />
             <BaseCheckItem text="Direto da fábrica" />
           </div>

@@ -1,7 +1,7 @@
 <script setup lang="ts">
 useSeo({
   title: 'Nossos Sabores',
-  description: 'Conheça os 5 sabores de gelo saborizado Glacialis Prime: Maçã Verde, Melancia, Morango, Maracujá e Água de Coco. Qualidade premium, direto da fábrica em Viana, ES.',
+  description: 'Conheça os 8 sabores de gelo saborizado Glacialis Prime: Maçã Verde, Melancia, Morango, Maracujá, Água de Coco, Uva, Efeito Brisa e Tutti Frutti. Qualidade premium, direto da fábrica em Viana, ES.',
 })
 </script>
 

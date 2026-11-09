@@ -6,7 +6,7 @@ const { abrirWhatsapp } = useWhatsapp()
 <template>
   <section id="sabores-grid" class="bg-background-surface py-16">
     <div class="mx-auto max-w-7xl px-4 sm:px-6 lg:px-8">
-      <div class="flex gap-8 overflow-x-auto pb-4 snap-x snap-mandatory sm:grid sm:grid-cols-2 sm:overflow-visible sm:pb-0 lg:grid-cols-3">
+      <div class="flex gap-8 overflow-x-auto pb-4 snap-x snap-mandatory sm:grid sm:grid-cols-2 sm:overflow-visible sm:pb-0 lg:grid-cols-4">
         <BaseCard
           v-for="sabor in sabores"
           :key="sabor.id"
@@ -47,6 +47,24 @@ const { abrirWhatsapp } = useWhatsapp()
             Pedir esse Sabor
           </BaseButton>
         </BaseCard>
+      </div>
+
+      <!-- Não achou o sabor? -->
+      <div class="mt-12 rounded-2xl bg-background p-8 text-center ring-1 ring-border">
+        <p class="font-display mb-2 text-lg font-bold text-foreground">
+          Não encontrou o sabor que procura?
+        </p>
+        <p class="mx-auto mb-5 max-w-xl text-sm leading-relaxed text-foreground-muted">
+          Entre em contato com a gente! Conte qual sabor você gostaria de ver na linha Glacialis Prime.
+        </p>
+        <BaseButton
+          variant="outline"
+          size="md"
+          @click="abrirWhatsapp('Olá! Não encontrei o sabor que procuro no site da Glacialis Prime. Gostaria de saber se é possível.')"
+        >
+          <Icon name="lucide:message-circle" class="h-4 w-4" />
+          Falar no WhatsApp
+        </BaseButton>
       </div>
     </div>
   </section>
